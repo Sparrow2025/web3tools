@@ -4,15 +4,18 @@ layout: home
 
 hero:
   name: "Web3Tools"
-  text: "All Tools In One Site"
-  tagline: My great project tagline
+  text: "🕸️尽Web3实用工具"
+  tagline: 😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃😃
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Base Tools
+      link: /base/index
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Evm Tools
+      link: /evm/index
+    - theme: alt
+      text: BTC Tools
+      link: /btc/index
 
 features:
   - title: Feature A
